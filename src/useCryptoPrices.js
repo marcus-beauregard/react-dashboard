@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: GPL-2.0-or-later
+// Copyright (C) 2026 Marcus Beauregard
+
 import { useCallback, useEffect, useState } from 'react';
 
 // CoinGecko ids plus the hardcoded values we fall back to when the API is
